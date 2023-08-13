@@ -1,0 +1,43 @@
+body{
+	background-color: black
+}
+#title{
+	color: white;
+	font-style: italic;
+	font-size: 10vw;
+	text-shadow: red 5px 5px;
+	margin: auto;
+}
+.white{
+	color: white;
+}
+.center{
+	text-align: center;
+}
+
+
+a{
+	color: white;
+	text-decoration: none;
+	font-size: 1.5vw;
+}
+a:hover{
+	color:red;
+}
+
+ul{
+	list-style: none;
+	color: white;
+}
+li{
+	display: inline-block;
+	margin-right: 10px;
+}
+
+#cat{
+	display:     block;
+	margin-left:  auto;
+	margin-right: auto;
+	width: 50vw;
+	height: 20vw;
+}
