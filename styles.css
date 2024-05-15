@@ -30,7 +30,7 @@ ul{
 	color: white;
 }
 li{
-	display: inline-block;
+	/* display: inline-block; */
 	margin-right: 10px;
 }
 
