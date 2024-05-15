@@ -4,7 +4,7 @@ body{
 #title{
 	color: white;
 	font-style: italic;
-	font-size: 10vw;
+	font-size: 1000%;
 	text-shadow: red 5px 5px;
 	margin: auto;
 }
@@ -19,7 +19,7 @@ body{
 a{
 	color: white;
 	text-decoration: none;
-	font-size: 1.5vw;
+	/* font-size: 1.5vw; */
 }
 a:hover{
 	color:red;
@@ -32,6 +32,7 @@ ul{
 li{
 	/* display: inline-block; */
 	margin-right: 10px;
+	font-size:200%;
 	list-style: disc inside;
 }
 
