@@ -32,12 +32,15 @@ ul{
 li{
 	/* display: inline-block; */
 	margin-right: 10px;
+	list-style: disc inside;
 }
 
 #cat{
 	display:     block;
 	margin-left:  auto;
 	margin-right: auto;
-	width: 50vw;
-	height: 20vw;
+	width: 75vw;
+	height: 25vh;
+	max-width 75%;
+	aspect-ratio:3/1;
 }
