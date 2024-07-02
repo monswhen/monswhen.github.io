@@ -1,0 +1,36 @@
++------------------------+-------+---------+-------------+
+| Material List for schematic 'Unnamed' (1 of 1 regions) |
++------------------------+-------+---------+-------------+
+| Item                   | Total | Missing |   Available |
++------------------------+-------+---------+-------------+
+| Dispenser              |     1 |       1 |           0 |
+| Lever                  |     1 |       1 |           0 |
+| Redstone Lamp          |     1 |       1 |           0 |
+| Redstone Torch         |     2 |       2 |           0 |
+| Activator Rail         |     3 |       3 |           0 |
+| Block of Redstone      |     3 |       3 |           0 |
+| Note Block             |     4 |       4 |           0 |
+| Dropper                |     5 |       5 |           0 |
+| Redstone Comparator    |     5 |       5 |           0 |
+| White Wool             |     8 |       8 |           0 |
+| Hopper                 |    10 |      10 |           0 |
+| Piston                 |    16 |      16 |           0 |
+| Iron Trapdoor          |    17 |      17 |           0 |
+| Redstone Repeater      |    34 |      34 |           0 |
+| Slime Block            |    39 |      39 |           0 |
+| Sticky Piston          |    47 |      47 |           0 |
+| Gray Glazed Terracotta |    78 |      78 |           0 |
+| Redstone Dust          |    86 |      86 |           0 |
+| Observer               |   108 |     108 |           0 |
+| Packed Ice             |   144 |     144 |           0 |
+| Stone Button           |   155 |     155 |           0 |
+| Powered Rail           |   157 |     157 |           0 |
+| Oak Trapdoor           |   296 |     296 |           0 |
+| White Concrete         |   357 |     357 |           0 |
+| Cobblestone Wall       |  1328 |    1328 |           0 |
+| White Stained Glass    |  3042 |    3042 |           0 |
+| Cobblestone Slab       |  3643 |    3643 |           0 |
+| Magma Block            |  9080 |    9080 |        3413 |
++------------------------+-------+---------+-------------+
+| Item                   | Total | Missing |   Available |
++------------------------+-------+---------+-------------+
