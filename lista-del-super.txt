@@ -29,8 +29,8 @@
 | White Concrete         |   357 |     357 |           0 |
 | Cobblestone Wall       |  1328 |    1328 |           0 |
 | White Stained Glass    |  3042 |    3042 |           0 |
-| Cobblestone Slab       |  3643 |    3643 |           0 |
-| Magma Block            |  9080 |    9080 |        9080 | DONE
+| Cobblestone Slab       |  3643 |       0 |        3643 | DONE
+| Magma Block            |  9080 |       0 |        9080 | DONE
 +------------------------+-------+---------+-------------+
 | Item                   | Total | Missing |   Available |
 +------------------------+-------+---------+-------------+
